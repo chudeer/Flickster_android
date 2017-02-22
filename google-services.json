@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607740602128",
+    "project_id": "firebase-flickster"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607740602128:android:720da58f6b903180",
+        "android_client_info": {
+          "package_name": "com.codepath.flickster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607740602128-dcshl7hmaqs3r8626m3f65ns62e52sg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codepath.flickster",
+            "certificate_hash": "FC4E9E682337AB5B4A2B518CCCA63C8253EB32C5"
+          }
+        },
+        {
+          "client_id": "607740602128-s5fbj28l3qkfj9c63kmmgomt2hf61a0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwqqY1fxU_Ef8pt73UTkgPt1_oEUeegE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
